@@ -1,0 +1,53 @@
+Overleaf code
+
+@inproceedings{dimreduction,
+  title={Dimensionality reduction of massive sparse datasets using coresets},
+  author={Feldman, Dan and Volkov, Mikhail and Rus, Daniela},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={2766--2774},
+  year={2016}
+}
+
+@article{geometric,
+  title={Geometric approximation via coresets},
+  author={Agarwal, Pankaj K and Har-Peled, Sariel and Varadarajan, Kasturi R},
+  journal={Combinatorial and computational geometry},
+  volume={52},
+  pages={1--30},
+  year={2005},
+  publisher={Cambridge University Press, New York}
+}
+
+@inproceedings{kmeans,
+  title={On coresets for k-means and k-median clustering},
+  author={Har-Peled, Sariel and Mazumdar, Soham},
+  booktitle={Proceedings of the thirty-sixth annual ACM symposium on Theory of computing},
+  pages={291--300},
+  year={2004}
+}
+
+@article{greedy,
+  title={Coresets, sparse greedy approximation, and the Frank-Wolfe algorithm},
+  author={Clarkson, Kenneth L},
+  journal={ACM Transactions on Algorithms (TALG)},
+  volume={6},
+  number={4},
+  pages={1--30},
+  year={2010},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{shapefitting,
+  title={On the sensitivity of shape fitting problems},
+  author={Varadarajan, Kasturi and Xiao, Xin},
+  journal={arXiv preprint arXiv:1209.4893},
+  year={2012}
+}
+
+@inproceedings{archetypal,
+  title={Coresets for Archetypal Analysis},
+  author={Mair, Sebastian and Brefeld, Ulf},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={7245--7253},
+  year={2019}
+}
